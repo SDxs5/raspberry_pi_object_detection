@@ -1,4 +1,13 @@
 # raspberry_pi_objection_detection
 Combine picamera with raspberry pi to do the oject dection.
-With a lot help from https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+@misc{lia_corrales_2015_15991,
+    author       = {Lia Corrales},
+    title        = {{dust: Calculate the intensity of dust scattering halos in the X-ray}},
+    month        = mar,
+    year         = 2015,
+    doi          = {10.5281/zenodo.15991},
+    version      = {1.0},
+    publisher    = {Zenodo},
+    url          = {https://doi.org/10.5281/zenodo.15991}
+    }
 
