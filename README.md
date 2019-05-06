@@ -5,7 +5,7 @@ Need install files in requirements before running Ras_dec.ipynb
 
 You could also choose whatever model you want from tensorflow model_zoo
 
-Doadload the one you want and change some of the parameters in Ras_dec.ipynb
+Download the one you want and change some of the parameters in Ras_dec.ipynb
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 
