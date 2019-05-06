@@ -1,5 +1,5 @@
 # raspberry_pi_objection_detection
-Combine the picamera with raspberry pi to do the real time object dection.
+Combine the picamera with raspberry pi to do the real time object classification.
 
 Need install files in requirements before running Ras_dec.ipynb
 
