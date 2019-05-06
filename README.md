@@ -17,4 +17,4 @@ Google object_detection examples:
 https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
 Dat Tran's real-time object_detection:
-https://github.com/datitran/object_detector_app
+     https://github.com/datitran/object_detector_app
