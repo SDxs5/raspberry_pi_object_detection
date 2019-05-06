@@ -1,7 +1,7 @@
 # raspberry_pi_object_detection
 Combine the Picamera with a Raspberry_Pi to do the real-time object detection.
 
-Need install files in requirements before running Ras_dec.ipynb
+Need install files in requirements.txt before running Ras_dec.ipynb
 
 You could also choose whatever model you want from tensorflow model_zoo
 
