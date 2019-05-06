@@ -1,4 +1,4 @@
-# raspberry_pi_object_detection
+# Raspberry_pi_object_detection
 Combine the Picamera with a Raspberry_Pi to do the real-time object detection.
 
 Need install packages in requirements.txt before running Ras_dec.ipynb
