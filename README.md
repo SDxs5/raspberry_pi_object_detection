@@ -1,5 +1,5 @@
-# raspberry_pi_objection_detection
-Combine the picamera with raspberry pi to do the real time object detection.
+# raspberry_pi_object_detection
+Combine the Picamera with the Raspberry_Pi to do the real-time object detection.
 
 Need install files in requirements before running Ras_dec.ipynb
 
@@ -17,6 +17,6 @@ Edje Electronics. 2019, How to Set Up TensorFlow Object Detection on the Raspber
 Google object_detection examples:
 https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
-Dat tran's real time objecet_detection:
+Dat Tran's real time objecet_detection:
 
 https://github.com/datitran/object_detector_app
