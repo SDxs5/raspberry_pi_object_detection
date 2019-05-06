@@ -1,9 +1,11 @@
 # raspberry_pi_objection_detection
-Combine picamera with raspberry pi to do the oject dection.
+Combine the picamera with raspberry pi to do the real time object dection.
 
 Need install files in requirements before running Ras_dec.ipynb
 
-You could also choose whatever  model you want from tensorflow model_zoo y https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+You could also choose whatever  model you want from tensorflow model_zoo
+Doadload the one you want and change some of the parameters in Ras_dec.ipynb
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 
 
